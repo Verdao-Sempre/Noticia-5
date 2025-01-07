@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(0, 100, 55);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+
+p{
+    font-size: 20px
+}
+   
+.Noticia{
+    border: solid white;
+    padding-left: 5px;
+}
+.Numeros{
+   border-bottom: solid white;
+   border-left: solid white;
+   border-right: solid white;
+   padding-left: 5px;
+}
+
